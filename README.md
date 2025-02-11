@@ -17,7 +17,7 @@ Klone dieses Repository:
 
 **bash**
 
-**git clone https://github.com/on2me/Aufgaben-App**
+**git clone https://github.com/on2me/Aufgaben-App.git**
 
 Öffne Qt Creator und wähle Datei -> Öffnen.
 
@@ -61,7 +61,7 @@ Clone this repository:
 
 **bash**
 
-**git clone https://github.com/on2me/Aufgaben-App**
+**git clone https://github.com/on2me/Aufgaben-App.git**
 
 Open Qt Creator and select File -> Open File or Project.
 
