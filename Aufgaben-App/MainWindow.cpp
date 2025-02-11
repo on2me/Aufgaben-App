@@ -29,7 +29,10 @@ MainWindow::MainWindow(QWidget *parent)
     setWindowTitle("Aufgaben-App");
     resize(800, 600);
 
-    trayIcon = new QSystemTrayIcon(QIcon(":/Aufgaben-App2.png"), this);
+    QIcon windowIcon(":/Aufgaben-App.png");  // Hier das gleiche Icon wie für den Tray
+    setWindowIcon(windowIcon);  // Setzt das Symbol für das Fenster
+
+    trayIcon = new QSystemTrayIcon(QIcon(":/Aufgaben-App.png"), this);
     trayIcon->setVisible(true);  // Tray-Icon anzeigen
     trayIcon->setToolTip("Aufgaben-App");
 
