@@ -16,7 +16,9 @@ Installation
 Klone dieses Repository:
 
 **bash**
+
 **git clone https://github.com/on2me/Aufgaben-App**
+
 Öffne Qt Creator und wähle Datei -> Öffnen.
 
 Navigiere zum geklonten Repository und wähle die .pro-Datei aus, um das Projekt zu importieren.
@@ -58,7 +60,9 @@ Installation
 Clone this repository:
 
 **bash**
+
 **git clone https://github.com/on2me/Aufgaben-App**
+
 Open Qt Creator and select File -> Open File or Project.
 
 Navigate to the cloned repository and select the .pro file to import the project.
