@@ -1,4 +1,5 @@
 **Deutsche Version**
+
 Aufgaben-App
 Dies ist eine einfache Aufgabenverwaltung-App, entwickelt mit C++ und Qt. Diese Anwendung ermöglicht es Benutzern, ihre Aufgaben zu erstellen, zu bearbeiten und zu löschen.
 
@@ -40,6 +41,7 @@ Dieses Projekt steht unter der MIT-Lizenz. Weitere Informationen findest du in d
 **Fühle dich frei, Änderungen vorzunehmen oder dieses Projekt zu kopieren.**
 
 **English Version**
+
 Tasks App
 This is a simple task management app developed with C++ and Qt. This application allows users to create, edit, and delete tasks.
 
