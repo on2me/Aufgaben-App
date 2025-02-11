@@ -1,0 +1,17 @@
+{
+    "tasks": [
+        {
+            "category": "",
+            "completed": false,
+            "description": "Hausis",
+            "dueDate": "2025-02-11T17:40:36",
+            "priority": 3,
+            "subtasks": [
+            ],
+            "tags": [
+            ],
+            "title": "Hausaufgaben"
+        }
+    ],
+    "totalPoints": 30
+}
