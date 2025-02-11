@@ -35,9 +35,13 @@ Der Pfad zum Icon korrekt ist.
 Das Icon in main.cpp gesetzt wird.
 
 cpp
+
 QApplication app(argc, argv);
+
 QIcon appIcon(":/icons/app_icon.png");
+
 app.setWindowIcon(appIcon);
+
 Lizenz
 Dieses Projekt steht unter der MIT-Lizenz. Weitere Informationen findest du in der LICENSE-Datei.
 **Fühle dich frei, Änderungen vorzunehmen oder dieses Projekt zu kopieren.**
@@ -79,9 +83,13 @@ The path to the icon is correct.
 The icon is set in main.cpp.
 
 cpp
+
 QApplication app(argc, argv);
+
 QIcon appIcon(":/icons/app_icon.png");
+
 app.setWindowIcon(appIcon);
+
 License
 This project is licensed under the MIT License. For more details, see the LICENSE file.
 **Feel free to make changes or copy this project.**
